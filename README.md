@@ -1,3 +1,4 @@
+![logo](https://github.com/shreysharmar619/shreysharmar619/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shrey Sharma</h1>
 <h3 align="center">A beginner web developer, who's constantly exploring and learning to create exciting web experiences.</h3>
 
